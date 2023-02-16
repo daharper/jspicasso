@@ -25,6 +25,6 @@ Then open Google Chrome and navigate to:
 http://127.0.0.1:8000/index.htm
 ```
 
-You enter commands at the bottom of the page.
+You can enter commands at the bottom of the page.
 
 ? will display a help message.
